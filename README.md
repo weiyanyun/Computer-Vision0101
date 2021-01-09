@@ -1,4 +1,4 @@
-Sentry-Gun-Computer-Vision
+Computer-Vision
 ==========================
 
 Major project for CSH. Detects people for use in a sentry gun.
